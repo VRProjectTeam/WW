@@ -11,6 +11,7 @@ public class Hello : MonoBehaviour
         Debug.Log("你好，项目期开始了，请各位加油！");
         Debug.Log("我是熊腾，以成功");
         Debug.Log("我是杨希钢，已成功");
+        Debug.Log("我是李勇，已成功");
     }
 	
 	// Update is called once per frame
