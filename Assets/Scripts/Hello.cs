@@ -8,7 +8,7 @@ public class Hello : MonoBehaviour
 	// Use this for initialization
 	void Start ()
     {
-        Debug.Log("你好，我是刘静浩2");
+        Debug.Log("你好，我是刘静浩1");
 	}
 	
 	// Update is called once per frame
