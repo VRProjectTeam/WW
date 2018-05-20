@@ -9,7 +9,7 @@ public class Hello : MonoBehaviour
 	void Start ()
     {
         Debug.Log("你好，项目期开始了，请各位加油！");
-        Debug.Log("我是赵奎，已成功");
+        Debug.Log("我是坤，已成功");
 	}
 	
 	// Update is called once per frame
@@ -18,3 +18,4 @@ public class Hello : MonoBehaviour
 		
 	}
 }
+    
