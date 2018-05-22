@@ -12,6 +12,7 @@ public class Hello : MonoBehaviour
         Debug.Log("我是熊腾，以成功");
         Debug.Log("我是杨希钢，已成功");
         Debug.Log("我是李勇，已成功");
+        Debug.Log("我是赵奎，已成功");
         Debug.Log("啦啦");
     }
 	
