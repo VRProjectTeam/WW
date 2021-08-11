@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
 
 public class Hello : MonoBehaviour
@@ -13,6 +14,7 @@ public class Hello : MonoBehaviour
         Debug.Log("我是杨希钢，已成功");
         Debug.Log("我是李勇，已成功");
         Debug.Log("我是赵奎，已成功");
+        Debug.Log("啦啦");
         Debug.Log("啦啦");
     }
 	
